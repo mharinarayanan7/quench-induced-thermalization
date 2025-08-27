@@ -11,8 +11,8 @@ This repository contains the Mathematica notebooks developed for the research pr
 The project explores **quench-induced finite-time thermalization** in a system of coupled quantum harmonic oscillators. The notebook includes all calculations, plots, and step-by-step explanations used in the research.
 
 ## Usage
-1. Open `thermalization.nb` in Wolfram Mathematica to reproduce the code.  
-2. Alternatively, view `thermalization.pdf` to read the annotated code and explanations without Mathematica.
+1. Open [thermalization.nb](thermalization.nb) in Wolfram Mathematica to reproduce the code.  
+2. Alternatively, view [thermalization.pdf](thermalization.pdf) to read the annotated code and explanations without Mathematica.
 
 ---
 
